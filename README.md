@@ -1,0 +1,2 @@
+# selfdiagnosis
+Self-DiagnosisMacro
